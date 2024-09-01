@@ -1,0 +1,126 @@
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CONTACT</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="stylez.css">
+    <!-- Fontawesome icon -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+        crossorigin="anonymous" />
+</head>
+
+<body>
+
+    <section class="header">
+        <nav>
+            <a href="index.html" class="logo">TECH
+                <i class="fab fa-staylinked"></i>ERA
+            </a>
+            <div class="nav-links" id="navLinks">
+    
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="courses.html">Course</a></li>
+                    <li><a href="pari.html">Career</a></li>
+                    <li><a href="notes.html">notes</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showmenu()"></i>
+            <script src="sc.js"></script>
+        </nav>
+    
+    </section>
+    <section class="contact-section">
+        <div class="contact-bg">
+            <h3>Get in Touch with Us</h3>
+            <h2>contact us</h2>
+            <div class="line">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <p class="text">HAVE ANY DOUBT CONTACT US</p>
+        </div>
+
+
+        <div class="contact-body">
+            <div class="contact-info">
+                <div>
+                    <span><i class="fas fa-mobile-alt"></i></span>
+                    <span>Phone No.</span>
+                    <span class="text">8299307864</span>
+                </div>
+                <div>
+                    <span><i class="fas fa-envelope-open"></i></span>
+                    <span>E-mail</span>
+                    <span class="text">prashantkumar0852.pk@gmail.com@gmail.com</span>
+                </div>
+                <div>
+                    <span><i class="fas fa-map-marker-alt"></i></span>
+                    <span>Address</span>
+                    <span class="text">GALGOTIAS COLLEGE OF ENGINEERING & TECHNOLOGY</span>
+                </div>
+                <div>
+                    <span><i class="fas fa-clock"></i></span>
+                    <span>Availability</span>
+                    <span class="text">24*7</span>
+                </div>
+            </div>
+
+            <div class="contact-form">
+                <form action="conn.php" method="POST">
+                    <div>
+                        
+                        <input type="text" class="form-control" placeholder="Name" name="user_name" id="name">
+                        
+                    </div>
+                    <div>
+                        <input type="email" class="form-control" placeholder="E-mail"name="user_email"  id="txtemail" required>
+                        
+                    </div>
+                    <textarea rows="5" placeholder="Message" class="form-control" name="user_message" id="txtmessage"></textarea>
+                    <input type="submit" class="submit" value="send message">
+                </form>
+
+                <div>
+                    <img src="images/contact-png.png" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="map">
+            <iframe
+                src="https://www.google.com/maps/place/Galgotias+University/@28.3668904,77.5391511,17z/data=!3m1!a4b1!4m5!3m4!1s0x390cc7365a740e65:0xd0d60a62e55ab171!8m2!3d28.3668904!4d77.5413398"
+                width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+                tabindex="0"></iframe>
+        </div>
+        <section class="thanks">
+            <marquee scrollamount="5" onmouseover="stop() " onmouseout="start()"><h3>Thanks for Visiting</h3></marquee>
+        </section>
+        <section class="footer">
+        <div class="contact-footer">
+            <h3>Follow Us</h3>
+            <div class="social-links">
+                <a href="#" class="fab fa-facebook-f"></a>
+                <a href="#" class="fab fa-twitter"></a>
+                <a href="#" class="fab fa-instagram"></a>
+                <a href="#" class="fab fa-linkedin"></a>
+                <a href="#" class="fab fa-youtube"></a>
+            </div>
+        </div>
+        </section>
+    </section>
+
+   
+
+
+</body>
+
+</html>

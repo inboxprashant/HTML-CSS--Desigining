@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wgth@200;300;400&display=swap');
+
+*{
+    BOX-SIZING: border-box;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    FONT-FAMILY: 'Poppins' ,sans-serif;
+    PADDING-TOP: 0px
+}
+body{
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+
+ 
+.container
+{
+    MARGIN: auto;
+    WIDTH: 80%;
+    DISPLAY: block;
+    PADDING-TOP: 100px
+}
+.content-section
+{
+    WIDTH: 55%;
+    FLOAT: left
+}
+.image-section
+{
+    MARGIN-TOP: auto;
+    WIDTH: 100%;
+    FLOAT: none
+}
+.img-section IMG
+{
+    MARGIN: auto;
+    WIDTH: 100%;
+    DISPLAY: block;
+    HEIGHT: auto
+}
+.content-section .title
+{
+    TEXT-TRANSFORM: uppercase;
+    FONT-SIZE: 28px
+}
+.content-section .content H3
+{
+    MARGIN-TOP: 20px;
+    COLOR: red;
+    FONT-SIZE: 21px
+}
+.content-section .content P
+{
+    LINE-HEIGHT: 1.5;
+    MARGIN-TOP: 10px;
+    FONT-FAMILY: sans-serif;
+    FONT-SIZE: 18px
+}
+.content-section .content .button
+{
+    MARGIN-TOP: 40px
+}
+.content-section .content .button A
+{
+    PADDING-BOTTOM: 12px;
+    BACKGROUND-COLOR:red;
+    PADDING-LEFT: 20px;
+    PADDING-RIGHT: 20px;
+    LETTER-SPACING: 1px;
+    COLOR:white;
+    FONT-SIZE: 20px;
+    TEXT-DECORATION: none;
+    PADDING-TOP: 12px
+}
+.content-section .content .button A:hover
+{
+    BACKGROUND-COLOR: green;
+    COLOR: cornsilk;
+}
+.content-section .social
+{
+    MARGIN: 30px 40px;
+    COLOR:white;
+}
+.content-section .social I
+{
+    PADDING-BOTTOM: 0px;
+    PADDING-LEFT: 10px;
+    PADDING-RIGHT: 10px;
+    COLOR:green;
+    FONT-SIZE: 30px;
+    PADDING-TOP: 0px;
+}
+.content-section .social I:hover
+{
+    COLOR:red;
+}
+.container
+{
+    MARGIN: auto;
+    WIDTH: 80%;
+    DISPLAY: block;
+    PADDING-TOP: 50px;
+}
+.content-section
+{
+    MARGIN: auto;
+    WIDTH: 100%;
+    DISPLAY: block;
+    FLOAT: none;
+}
+.image-section
+{
+    MARGIN: auto;
+    WIDTH: 100%;
+    DISPLAY: block;
+    FLOAT: none;
+}
+.content-section .title
+{
+    TEXT-ALIGN: center;
+    FONT-SIZE: 19px;
+}
+.content-section .content .button
+{
+    TEXT-ALIGN: center
+}
+.content-section .content .button A
+{
+    PADDING-BOTTOM: 9px;
+    PADDING-LEFT: 30px;
+    PADDING-RIGHT: 30px;
+    PADDING-TOP: 9px
+}
+.content-section .social
+{
+    TEXT-ALIGN: center;
+    align-self: auto
+}
+
+.fab{
+    color: white;
+    padding-inline: 10px
+    ;
+}
+
+.fab:hover{
+    color: red;
+}

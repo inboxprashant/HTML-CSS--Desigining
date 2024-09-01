@@ -1,0 +1,377 @@
+
+<html>
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="footer, address, phone, icons" />
+
+<title>TECHERA</title>
+<link rel="shortcut icon" href="images/logo.png" />
+<meta name="description" content="Our Terms and Conditions are simple, user friendly and super easy to abide. Please do not violate these.">
+
+<!--for header-->
+<link rel="stylesheet" href="styletc1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+
+<!--for fotter-->
+<link rel="stylesheet" href="styletc.css">
+	
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+<link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+
+    <section class="header">
+        <nav>
+            <a href="index.html" class="logo">Tech
+                <i class="fab fa-staylinked"></i>Era
+            </a>
+            <div class="nav-links" id="navLinks">
+        
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="courses.html">Course</a></li>
+                    <li><a href="">Career</a></li>
+                    <li><a href="notes.html">notes</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showmenu()"></i>
+        
+        </nav>
+
+    </section>
+    
+
+    <br>
+    <br>
+    <h1><strong><u><span><center>Terms and Conditions</center></span></u></strong></h1>
+    <center><div class="fs-4 fw-light">	?? Have Fun! Just <mark>don't break anything</mark>!	??</div></center>
+
+    <br>
+    <br>
+
+    
+<p>PLEASE READ THE FOLLOWING TERMS OF SERVICE RELATING TO YOUR USE OF THE <u> @TechEra </u> WEBSITE CAREFULLY AS THEY GOVERN YOUR USE OF THE SITE AND ALL SERVICES OFFERED THROUGH THE SITE.</p>
+<br>
+<br>
+<h3>1. ACCEPTANCE OF TERMS<br></h3>
+<p>Thank you for using <u>TechEra.com </u> ('Site'), the website for programming language provided by our team. The Site is owned and operated by us. All references to TechEra include our team, its entities, affiliates, websites and subsidiaries. TechEra.com provides the services offered on the Site subject to the Terms and Conditions ('T&C') contained herein, which may be updated from time to time without notice to you. You can review the most up-to-date version of the Site's 'T&C' by visiting this page.</p>
+
+<p>By using the Site, you agree and consent to be bound by these T&C and all disclaimers, rules and terms and conditions that appear elsewhere on or in connection with the Site. If at any time you become dissatisfied with the T&C, you agree that your sole and exclusive remedy is to discontinue using the Site and Services (as defined below).</p>
+<br>
+<br>
+<b>Table of Contents<br></b>
+1.  <a href="#section1">Creating an Accounts<br></a>
+2.  <a href="#section2">Content Enrollment and Lifetime Access<br></a>
+3.  <a href="#section3">Registration<br></a>
+4.  <a href="#section4">Content and Behavior Rules<br></a>
+5.  <a href="#section5">TechEra’s Rights to Content You Post<br></a>
+6.  <a href="#section6">Using TechEra at Your Own Risk<br></a>
+7.  <a href="#section7">TechEra’s Rights<br></a>
+8.  <a href="#section8">Subscription Terms<br></a>
+9.  <a href="#section9">Things You must not do(Restrictions)<br></a>
+10.<a href="#section10">Miscellaneous Legal Terms<br></a>
+11.<a href="#section11">Third-Party Contents and Links<br></a>
+12.<a href="#section12">Copyright Policy<br></a>
+13.<a href="#section13">How to Contact Us<br></a>
+<br>
+<br>
+<h3  id="section1">1. Creating an Account<br></h3>
+<p>To signup for a TechEra account, you need to be 13 or over.<br> You're responsible for your account and all the activity on it.
+
+You can browse TechEra's website and mobile application without registering for an account. But to use some of TechEra's features, you'll need to register, choose a username, and set a password. When you do that, the information you give us has to be accurate and complete. Don't impersonate anyone else or choose names that are offensive or that violate anyone's rights. If you don't follow these rules, we may cancel your account.
+
+You're responsible for all the activity on your account, and for keeping your password confidential. If you find out that someone's used your account without your permission, you should report it to we <a href="   "><u> @TechEra.com</u></a> .
+<br>
+<br>
+<br>
+<h3  id="section2">2.Content Enrollment and Lifetime Access<br></h3>
+<p>When you enroll in a course or other content, you get a license from us to view it via the TechEra Services and no other use.<p> Don’t try to transfer or resell content in any way. We generally grant you a lifetime access license, except when we must disable the content because of legal or policy reasons or for enrollments via Subscription Plans.
+Under our Terms, when instructors publish content on TechEra, they grant TechEra a license to offer a license to the content to students.<p> This means that we have the right to sublicense the content to enrolled students. As a student, when you enroll in a course or other content, whether it’s free or paid content, you are getting a license from TechEra to view the content via the TechEra form and Services, and TechEra is the licensor of record. Content is licensed, and not sold, to you. This license does not give you any right to resell the content in any manner (including by sharing account information with a purchaser or illegally downloading the content and sharing it on torrent sites).
+In legal, more complete terms, TechEra grants you (as a student) a limited, non-exclusive, non-transferable license to access and view the content for which you have paid all required fees, solely for your personal, non-commercial, educational purposes through the Services, in accordance with these Terms and any conditions or restrictions associated with the particular content or feature of our Services. All other uses are expressly prohibited. You may not reproduce, redistribute, transmit, assign, sell, broadcast, rent, share, lend, modify, adapt, edit, create derivative works of, sublicense, or otherwise transfer or use any content unless we give you explicit permission to do so in a written agreement signed by a TechEra authorized representative.
+
+We generally give a lifetime access license to our students when they enroll in a course or other content. However, we reserve the right to revoke any license to access and use any content at any point in time in the event where we decide or are obligated to disable access to the content due to legal or policy reasons, for example, if the course or other content you enrolled in is the object of a copyright complaint, or if we determine it violates our Trust & Safety Guidelines. This lifetime access license does not apply to enrollments via Subscription Plans or to add-on features and services associated with the course or other content you enroll in. For example, instructors may decide at any time to no longer provide teaching assistance or Q&A services in association with the content. To be clear, the lifetime access is to the course content but not to the instructor.
+<br>
+<br>
+<br>
+<h3  id="section3">3.Registration<br></h3>
+You will need to register with us and obtain an account, username, and password for most activities on our platform, including to purchase and enroll in a course, ebook or to submit a course for publication. The information you provide at the time of registration help us in hosting your content, offering the content, customer service, and network management. You are solely responsible for maintaining the confidentiality of your account, username, and password. You further understand that you are completely responsible for all activities associated with your account.
+You warrant that your account related information will be accurate, current, and complete at all times. If we believe that such information is  inaccurate, not correct, misleading, then we reserve the right to suspend or terminate your account and restrict any and all current or future use of our products and services, without any liability to you.
+
+You must notify us immediately of any unauthorized use of your account and any other breach of security. We cannot be held responsible for any loss or damage arising out of your failure or negligence to comply with the requirements stated in this agreement, either with or without your knowledge, prior to your notifying us of unauthorized access to your account.
+
+You may not use anyone else's account at any time or transfer your account to someone else without the permission of the account holder. If you have authorized another individual, including a minor, to use your account, you understand under such circumstances, you are completely responsible for the online conduct of such user and the consequences of any misuse.
+
+<br>
+<br>
+<br>
+<h3  id="section4">4.Content and Behavior Rules<br></h3>
+You can only use TechEra for lawful purposes. You’re responsible for all the content that you post on our platform. You should keep the reviews, questions, posts, courses and other content you upload in line with our Trust & Safety Guidelines and the law, and respect the intellectual property rights of others. We can ban your account for repeated or major offenses. If you think someone is infringing your copyright on our platform.
+<p> let us know, You may not access or use the Services or create an account for unlawful purposes. Your use of the Services and behavior on our platform must comply with applicable local or national laws or regulations of your country. You are solely responsible for the knowledge of and compliance with such laws and regulations that are applicable to you.
+
+If you are a student, the Services enable you to ask questions to the instructors of courses or other content you are enrolled in, and to post reviews of content. Don’t post or submit anything that is not yours.
+
+If you are an instructor, you can submit content for publication on the platform and you can also communicate with the students who have enrolled in your courses or other content. In both cases, you must follow by the law and respect the rights of others: you cannot post any course, question, answer, review or other content that violates applicable local or national laws or regulations of your country. You are solely responsible for any courses, content, and actions you post or take via the platform and Services and their consequences. Make sure you understand all the copyright restrictions set forth in the Instructor Terms before you submit any content for publication on TechEra.
+
+If we are put on notice that your course or content violates the law or the rights of others (for example, if it is established that it violates intellectual property or image rights of others, or is about an illegal activity), if we discover that your content or behavior violates our Trust & Safety Guidelines, or if we believe your content or behavior is unlawful, inappropriate, or objectionable, we may remove your content from our platform. TechEra complies with copyright laws. Check out our Intellectual Property Policy for more detail .
+TechEra has discretion in enforcing these Terms and our Trust & Safety Guidelines. We may restrict or terminate your permission to use our platform and Services or ban your account at any time, with or without notice, for any or no reason, including for any violation of these Terms, if you fail to pay any fees when due, for fraudulent chargeback requests, upon the request of law enforcement or government agencies, for extended periods of inactivity, for unexpected technical issues or problems, if we suspect that you engage in fraudulent or illegal activities, or for any other reason in our sole discretion. Upon any such termination we may delete your account and content, and we may prevent you from further access to the platforms and use of our Services. Your content may still be available on the platforms even if your account is terminated or suspended. You agree that we will have no liability to you or any third party for termination of your account, removal of your content, or blocking of your access to our platforms and services.
+
+If a user has published content that infringes your copyright or trademark rights.
+<br>
+<br>
+<br>
+<h3  id="section5">5. TechEra’s Rights to Content You Post<br></h3>
+You retain ownership of content you post to our platform, including your courses. We’re allowed to share your content to anyone through any media, including promoting it via advertising on other websites.
+The content you post as a student or instructor (including courses) remains yours. By posting courses and other content, you allow TechEra to reuse and share it but you do not lose any ownership rights you may have over your content. If you are an instructor, be sure to understand the content licensing terms that are detailed in the Instructor Terms.
+
+When you post content, comments, questions, reviews, and when you submit to us ideas and suggestions for new features or improvements, you authorize TechEra to use and share this content with anyone, distribute it and promote it on any platform and in any media, and to make modifications or edits to it as we see fit.
+
+In legal language, by submitting or posting content on or through the platforms, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display, and distribute your content (including your name and image) in any and all media or distribution methods (existing now or later developed). This includes making your content available to other companies, organizations, or individuals who partner with TechEra for the syndication, broadcast, distribution, or publication of content on other media, as well as using your content for marketing purposes. You may represent and warrant that you have all the rights, power, and authority necessary to authorize us to use any content that you submit. You also agree to all such uses of your content with no compensation paid to you.
+<br>
+<br>
+<br>
+<h3  id="section6">6. Using TechEra at Your Own Risk<br></h3>
+Anyone can use TechEra to create and publish content and instructors and we enable instructors and students to interact for teaching and learning. Like other platforms where people can post content and interact, some things can go wrong, and you use TechEra at your own risk.
+Our platform model means we do not review or edit the content for legal issues, and we are not in a position to determine the legality of content. We do not exercise any editorial control over the content that is available on the platform and, as such, do not guarantee in any manner the reliability, validity, accuracy, or truthfulness of the content. If you access content, you rely on any information provided by an instructor at your own risk.
+
+By using the Services, you may be exposed to content that you consider offensive, indecent, or objectionable. TechEra has no responsibility to keep such content from you and no liability for your access or enrollment in any course or other content, to the extent permissible under applicable law. This also applies to any content relating to health, wellness, and physical exercise. You acknowledge the  risks and dangers in the nature of these types of content, and by accessing such content you choose to assume those risks voluntarily, including risk of illness, disability, or death. You assume full responsibility for the choices you make before, during, and after your access to the content.
+
+When you interact directly with a student or an instructor, you must be careful about the types of personal information that you share. While we restrict the types of information instructors may request from students, we do not control what students and instructors do with the information they obtain from other users on the platform. You should not share your email or other personal information about you for your safety.
+
+We do not hire or employ instructors nor are we responsible or liable for any interactions involved between instructors and students. We are not liable for disputes, claims, losses, injuries, or damage of any kind that might arise out of or relate to the conduct of instructors or students.
+
+When you use our Services, you will find links to other websites that we don’t own or control. We are not responsible for the content or any other aspect of these third-party sites, including their collection of information about you. You should also read their terms and conditions and privacy policies.
+<br>
+<br>
+<br>
+<h3  id="section7">7. TechEra’s Rights<br></h3>
+We own the TechEra platform and Services, including the website, present or future apps and services, and things like our logos, code, and content created by our employees. You can’t tamper with those or use them without authorization.
+All right, title, and interest in and to the TechEra platform Services, including our website, our existing or future applications, databases, and the content our employees or partners submit or provide through our Services (but excluding content provided by instructors and students) are and will remain the exclusive property of TechEra and its licensors. Nothing gives you a right to use the TechEra name or any of the TechEra trademarks, logos, domain names, and other distinctive brand features. Any feedback, comments, or suggestions you may provide regarding TechEra or the Services is entirely voluntary and we will be free to use such feedback, comments, or suggestions as we see fit and without any obligation to you.
+
+You may not do any of the following while accessing or using the TechEra platform and Services:<br>
+access, tamper with, or use non-public areas of the platform (including content storage), TechEra's computer systems, or the technical delivery systems of TechEra’s service providers.
+disable, interfere with, or try to circumvent any of the features of the platforms related to security or probe, scan, or test the vulnerability of any of our systems.
+copy, modify, create a derivative work of, reverse engineer, reverse assemble, or otherwise attempt to discover any source code of or content on the TechEra platform or Services.
+access or search or attempt to access or search our platform by any means (automated or otherwise) other than through our currently available search functionalities that are provided via our website, mobile apps. You may not scrape, spider, use a robot, or use other automated means of any kind to access the Services.
+in any way use the Services to send altered, deceptive, or false source-identifying information (such as sending email communications falsely appearing as TechEra); or interfere with, or disrupt, the access of any user, host, or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the platforms or services, or in any other manner interfering with or creating an undue burden on the Services.
+<br>
+<br>
+<br>
+<h3  id="section8">8. Subscription Terms<br></h3>
+This section covers additional terms that apply to your use of our subscription-based collections as a student (“Subscription Plans”). By using a Subscription Plan, you agree to the additional terms in this section. Note that use of TechEra Business is not subject to these Terms, but is instead governed by the agreement between TechEra and the subscribing organization.
+<br>
+<br>
+<br>
+<h3  id="section9">9. Things You must not do (Restrictions)<br></h3>
+You are expressly and emphatically restricted from all of the following:
+
+publishing any TechEra's material in any media;
+selling, sublicensing and/or otherwise commercializing any TechEra's material;
+link to the TechEra's website using HTML techniques that displays the website within a frame, partial window or pop-up, or any other non standard linking method;
+access TechEra's website or mobile application using automated means(such as harvesting bots, robots, spiders, or scrapers) without our permission;
+upload viruses and other malicious codes to TechEra's website or web server;
+anything that could disable, overburden, or impair the proper working of TechEra's website, such as a denial of service attack;
+engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to TechEra's Website or mobile application, or while using them;
+
+distribute, unauthorized advertising or promotional material, or any junk mail, spam, or chain letters. Don't run mail lists, listservers, or any kind of auto-responder or spam on or through TechEra's website;
+facilitate or encourage any violations of this Statement;
+violate any of the terms and doing anything we ask you not to do;
+misuse our compiler software for processing a large number of requests which may or may not lead to overloading of our servers;
+Certain areas of TechEra's Website are restricted from access by you and TechEra may further restrict access for you (general user) to any areas of this Website, at any time, in its sole and absolute discretion. Any user ID and password you may have for this Website are confidential and you must maintain confidentiality of such information
+<br>
+<br>
+<br>
+<h3  id="section10">10. Miscellaneous Legal Terms<br></h3>
+These Terms are like any other contract, and they have boring but important legal terms that protect us from the countless things that could happen and that clarify the legal relationship between us and you.
+<br>
+<h4>10.1 Binding Agreement<br></h4>
+You agree that by registering, accessing, or using our Services, you are agreeing to enter into a legally binding contract with TechEra. If you do not agree to these Terms, do not register, access, or otherwise use any of our Services.
+
+If you are an instructor accepting these Terms and using our Services on behalf of a company, organization, government, or other legal entity, you represent and warrant that you are authorized to do so.
+
+Any version of these Terms in a language other than English is provided for convenience and you understand and agree that the English language will control if there is any conflict.
+
+These Terms (including any agreements and policies linked from these Terms) constitute the entire agreement between you and us (which include, if you are an instructor, the Instructor Terms and the Promotions Policy).
+
+If any part of these Terms is found to be invalid or unenforceable by applicable law, then that provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of these Terms will continue in effect.
+
+Even if we are delayed in exercising our rights or fail to exercise a right in one case, it doesn’t mean we waive our rights under these Terms, and we may decide to enforce them in the future. If we decide to waive any of our rights in a particular instance, it doesn’t mean we waive our rights generally or in the future.
+
+<br>
+<h4>10.2 Disclaimers</h4>
+It may happen that our platform is down, either for planned maintenance or because something goes down with the site. It may happen that one of our instructors is making misleading statements in their content. It may also happen that we encounter security issues. These are just examples. You accept that you will not have any recourse against us in any of these types of cases where things don’t work out right. We (and our affiliates, suppliers, partners, and agents) make no representations or warranties about the suitability, reliability, availability, timeliness, security, lack of errors, or accuracy of the Services or their content, and expressly disclaim any warranties or conditions. Your use of the Services (including any content) is entirely at your own risk. Some jurisdictions don’t allow the exclusion of implied warranties, so some of the above exclusions may not apply to you.
+
+We may decide to cease making available certain features of the Services at any time and for any reason. Under no circumstances will TechEra or its affiliates, suppliers, partners or agents be held liable for any damages due to such interruptions or lack of availability of such features.
+
+We are not responsible for delay or failure of our performance of any of the Services caused by events beyond our reasonable control, like an act of war, hostility, or sabotage; natural disaster; electrical, internet, or telecommunication outage; or government restrictions.
+
+<br>
+<h4>10.3 Limitation of Liability<br></h4>
+There are risks inherent to using our Services, for example, if you access health and wellness content like yoga, and you injure yourself. You fully accept these risks and you agree that you will have no recourse to seek damages against even if you suffer loss or damage from using our platform and Services. In legal, more complete language, to the extent permitted by law, we (and our group companies, suppliers, partners, and agents) will not be liable for any indirect, incidental, punitive, or consequential damages (including loss of data, revenue, profits, or business opportunities, or personal injury or death), whether arising in contract, warranty, tort, product liability, or otherwise, and even if we’ve been advised of the possibility of damages in advance. Our liability (and the liability of each of our group companies, suppliers, partners, and agents) to you or any third parties under any circumstance is limited to the greater of one hundred dollars ($100) or the amount you have paid us in the twelve (12) months before the event giving rise to your claims. Some jurisdictions don’t allow the exclusion or limitation of liability for consequential or incidental damages, so some of the above may not apply to you.
+
+<br>
+<h4>10.4 Indemnification<br></h4>
+If you behave in a way that gets us in legal trouble, we may exercise legal recourse against you. You agree to indemnify, defend (if we so request), and hold harmless TechEra, our group companies, and their officers, directors, suppliers, partners, and agents from an against any third-party claims, demands, losses, damages, or expenses (including reasonable attorney fees) arising from (a) the content you post or submit, (b) your use of the Services (c) your violation of these Terms, or (d) your violation of any rights of a third party. Your indemnification obligation will survive the termination of these Terms and your use of the Services.
+
+<br>
+<h4>10.5 Governing Law and Jurisdiction<br></h4>
+When these Terms mention “TechEra", they’re referring to the TechEra entity that you’re contracting with. If you’re a student, your contracting entity and governing law will generally be determined based on your location.
+
+If you’re a student located in India, you’re contracting with TechEra India LLP and these Terms are governed by the laws of India, without reference to its choice or conflicts of law principles, and you consent to the exclusive jurisdiction and venue of the courts in Delhi, India.
+
+If you’re a student located in a geographical region other than India, or if you’re accessing our Services as an instructor, you’re contracting with TechEra, Inc. and these Terms are governed by the laws of the State of California, USA without reference to its choice or conflicts of law principles. In cases where the “Dispute Resolution” section below doesn’t apply to you, you consent to the exclusive jurisdiction and venue of federal and state courts in San Francisco, California, USA.
+
+<br>
+<h4>10.6 Legal Actions and Notices<br></h4>
+No action, regardless of form, arising out of or relating to this Agreement may be brought by either party more than one (1) year after the cause of action has accrued, except where this limitation cannot be imposed by law.
+
+Any notice or other communication to be given hereunder will be in writing and given by registered or certified mail return receipt requested, or email (by us to the email associated with your account or by you to notices@TechEra.com).
+
+<br>
+<h4>10.7 Relationship Between Us<br></h4>
+You and we agree that no joint venture, partnership, employment, contractor, or agency relationship exists between us.
+
+<br>
+<h4>10.8 No Assignment<br></h4>
+You may not assign or transfer these Terms (or the rights and licenses granted under them). For example, if you registered an account as an employee of a company, your account cannot be transferred to another employee. We may assign these Terms (or the rights and licenses granted under them) to another company or person without restriction. Nothing in these Terms confess any right, benefit, or remedy on any third-party person or entity. You agree that your account is non-transferable and that all rights to your account and other rights under these Terms terminate upon your death.
+
+Upload any content or technology (including information on encryption) whose export is specifically controlled under such laws.
+
+<br>
+<br>
+<br>
+<h3  id="section11">11.Third-Party Content and Links<br></h3>
+Some of the information or other materials available on or through the TechEra Services may have been prepared by third-parties not affiliated with TechEra, including other users. TechEra makes no warranties with regard to such information or other materials, nor does TechEra assume any responsibility or liability for any decisions based upon such information.
+
+The TechEra Services may include links to websites and services not provided by TechEra. Your interaction with these websites and services will be subject to the terms (including privacy policies) established by such websites or services. TechEra is not responsible for, and does not endorse or warrant in any way, any materials, information, goods, or services available through or advertised on such websites or services, or the privacy or other practices of such websites or services.
+
+<br>
+<br>
+<br>
+<h3  id="section12">12. Copyright Policy<br></h3>
+TechEra respects the intellectual property rights of others and expects our users to do the same. We will respond to notices of copyright infringement that complete with applicable law and are properly provided to us and will immediately remove or disable the content until further settlement.
+
+If you believe that your Content has been copied in a way that constitutes copyright infringement, please provide us with the following information: <br>
+<br>(i) A physical or electronic signature of the copyright owner or a person authorized to act on their behalf; 
+<br>(ii) Identification of the copyrighted work claimed to have been infringed; 
+<br>(iii) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; 
+<br>(iv) Your contact information, including your address, telephone number, and an email address; 
+<br>(v) A statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; 
+<br>(vi) A statement that the information in the notification is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
+<br>
+<br>
+<p>We reserve the right to remove Content alleged to be infringing without prior notice and at our sole discretion.</p>
+<br>
+<br>
+<h3  id="section13">13. How to Contact Us<br></h3>
+The best way to get in touch with us is to contact our Support Team. We’d love to hear your questions, concerns, and feedback about our Services.
+
+<p><b><i>Thanks for teaching and learning with us!</b></i></p>
+
+
+<!-- The content of your page would go here. -->
+
+<footer class="footer-distributed">
+
+    <div class="footer-left">
+  <img src="logo.png">
+        <h3>About <span>TechEra</span></h3>
+
+        <p class="footer-links">
+            <a href="index.html">Home</a>
+            |
+            <a href="#">Blog</a>
+            |
+            <a href="about.html">About Us</a>
+            |
+            <a href="contact.html">Contact</a>
+            |
+            <a href="#"><mark>Terms and Conditions</mark></a>
+            |
+            <a href="pr.html">Privacy Policy</a>
+            
+        </p>
+
+        <p class="footer-company-name">2023 Copyright © TechEra. All Rights Reserved</p>
+    </div>
+
+    <div class="footer-center">
+        <div>
+            <i class="fa fa-map-marker"></i>
+              <p><span>GALGOTIAS COLLEGE OF ENGINEERING & TECHNOLOGY</span>
+              </p>
+        </div>
+
+        <div>
+            <i class="fa fa-phone"></i>
+            <p>+91 8299307864</p>
+        </div>
+        <div>
+            <i class="fa fa-envelope"></i>
+            <p>
+                <a href="mailto:support@eduonix.com">
+                    prashantkumar0852.pk@gmail.com</a></p>
+        </div>
+
+        &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+        <p class="footer-company-about">
+            <a href="#">
+                Faq
+            </a>
+            |
+            <a href="#">
+                Reports
+            </a>
+            |
+            <a href="#">
+                Help and Support
+            </a>
+        </p>    
+    </div>
+    <div class="footer-right">
+        <p class="footer-company-about">
+            <span>
+                About the TechEra
+            </span>
+                We are here to provides computer programming languages and basics applications with their handwritten notes.
+        </p>
+
+        <div class="footer-icons">
+            <p class="footer-company-about">
+                <span>
+                    Join Us
+                </span>
+            </p>
+            <br>
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-instagram"></i></a>
+            <a href="#"><i class="fa fa-linkedin"></i></a>
+            <a href="#"><i class="fa fa-youtube"></i></a>
+        </div>
+    </div>
+</footer>
+
+
+
+</body>
+</html>

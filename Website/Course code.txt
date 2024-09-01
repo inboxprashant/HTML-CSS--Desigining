@@ -1,0 +1,572 @@
+
+
+<!DOCTYPE html>
+<html lang='en-US'>
+    <head>
+
+<!-- Do this first - we want things loading ASAP. -->
+
+     <link href='https://fonts.googleapis.com' rel='preconnect'>
+     <link crossorigin='true' href='https://fonts.gstatic.com' rel='preconnect'>
+     <link crossorigin='true' href='https://d24y9kuxp2d7l2.cloudfront.net' rel='preconnect'>
+
+<!-- We always want this rendered at the start. -->
+
+     <link rel="stylesheet" href="https://d24y9kuxp2d7l2.cloudfront.net/assets/website-f2599e2771959ce83546b54f67381278504e5293.css" data-turbo-track="reload" />
+     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,900&amp;display=swap" />
+        <script data-api='/usage/api/event' data-domain='techera.org' defer src='/usage/js/script.js'>
+        </script>
+
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta content='width=device-width, initial-scale=1' name='viewport'>
+    <meta name="csrf-param" content="authenticity_token" />
+    <meta name="csrf-token" content="EWzBcEcMV4oXajay4EOzdVVmtSyibbNQN1WQf4OkS6w72QHSdlNIq_RFSmkeKIEDz6WmwmavU0tEIInp3AV7JQ" />
+
+    <meta name="action-cable-url" content="wss://techera.org/cable" />
+    <meta content='language-servers-925786784.eu-west-2.elb.amazonaws.com' name='language-server-url'>
+    <meta content='https://techera.org/api/v2/bug_reports' name='bug-reports-url'>
+    <meta content='https://techera.org/api/v2/markdown/parse' name='parse-markdown-url'>
+    <meta content='' name='user-id'>
+    <meta content='pk_live_51IDGMXEoOT0Jqx0UGsyx7fUW7iojTCPobNQDDoVdVY64qsyeNyFDqQRAgXSdj2HF8mYzPGxsBWIEFPnenq0lEhLH00x7KfG52T' name='stripe-publishable-key'>
+
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="footer, address, phone, icons" />
+
+
+            <title>TechEra</title>
+            
+            
+    <meta content='Learn, practice and get world-class mentoring in over 50 languages. 100% free.' name='description'>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+    <meta content='width=device-width, initial-scale=1, viewport-fit=cover' name='viewport'>
+
+<!-- Twitter Card data -->
+
+    <meta content='summary_large_image' name='twitter:card'>
+    <meta content='@techera_io' name='twitter:site'>
+    <meta content='@techera_io' name='twitter:creator'>
+    <meta content='https://techera.org' name='twitter:url'>
+    <meta content='techera' name='twitter:title'>
+    <meta content='Learn, practice and get world-class mentoring in over 50 languages. 100% free.' name='twitter:description'>
+    <meta content='https://dg8krxphbh767.cloudfront.net/meta/og.png' name='twitter:image'>
+
+<!-- Open Graph data -->
+
+    <meta content='techera' property='og:title'> 
+    <meta content='website' property='og:type'>
+    <meta content='https://techera.org' property='og:url'>
+    <meta content='https://dg8krxphbh767.cloudfront.net/meta/og.png' property='og:image'>
+    <meta content='Learn, practice and get world-class mentoring in over 50 languages. 100% free.' property='og:description'>
+    <meta content='techera' property='og:site_name'>
+    <meta content='744760440' property='fb:admins'>
+
+<!-- Favicon -->
+
+         <link href='logo.png' rel='apple-touch-icon' sizes='180x180'>
+         <link href='logo.png' rel='icon' sizes='32x32' type='image/png'>
+         <link href='logo.png' rel='icon' sizes='16x16' type='image/png'>
+         <link href='/site.webmanifest' rel='manifest'>
+
+
+         <link rel="stylesheet" href="styleco.css">
+	
+	     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+	     <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+
+
+
+    </head>
+
+
+
+    <body class='namespace- controller-pages action-index theme-light user-signed_out'>
+
+
+        <header id="site-header">
+            <a class="announcement-bar" href="/about/hiring">
+                <div class="lg-container">
+                    <span>
+                        We’re hiring!
+                    </span>
+                    <strong>
+                        Come and join the TechEra team
+                    </strong>
+                    <span>
+                        ??
+                    </span>
+                </div>
+            </a>
+            <div class="lg-container container">
+                <a class="exercism-link xl:block" href="#">
+                    TECH ERA
+                </a>
+                <div class="docs-search">
+                    <div class="c-search-bar"
+                    ><input class="--search" placeholder="Search techera&#39;s docs...">
+                </div>
+            </div>
+            <nav class="signed-out">
+                <ul>
+                    <li>
+                        <a href="index.html">
+                            <img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/home-2a4e66176c4816cfbbf83ac43c0be8e1b91e5ed7.svg" />
+                            <span>
+                                Home
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="contact.html">
+                            <img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/tracks-2e780b460e113a9b07ce4446c988a31c40547b00.svg" />
+                            <span>
+                                   Contact
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="pari.html">
+                            <img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/contribute-269d926a07a0b503203914911e0a5704469ae8c4.svg" />
+                            <span>
+                                Career
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="notes.html">
+                            <img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/mentoring-4d1e266458e8e3293b94679b92ccea4aa2cdb58b.svg" />
+                            <span>
+                                Notes
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="about.html">
+                            <img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/donate-f0162e3dfad842a240d30ef6d422c5f4a969d857.svg" />
+                            <span>
+                                About Us
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+
+            <div class="auth-buttons">
+                <a class="btn-primary btn-xs" href="/users/sign_up">
+                    Sign up
+                </a>
+                <a class="btn-secondary btn-xs" href="/users/sign_in">
+                    Log in
+                </a>
+            </div>
+            <div class="c-react-component c-react-wrapper-dropdowns-dropdown" data-react-dropdowns-dropdown="true" data-react-data="{&quot;menu_button&quot;:{&quot;label&quot;:&quot;Button to open the navigation menu&quot;,&quot;className&quot;:&quot;explore-menu&quot;,&quot;extraClassNames&quot;:[&quot;btn-xs&quot;,&quot;btn-enhanced&quot;],&quot;html&quot;:&quot;\u003cimg role=\&quot;presentation\&quot; alt=\&quot;\&quot; class=\&quot;c-icon\&quot; src=\&quot;https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/hamburger-7e74aa2e28fa2c1297400d23b3994a60439f7d83.svg\&quot; /\u003e\u003cspan\u003eExplore\u003c/span\u003e&quot;},&quot;menu_items&quot;:[{&quot;html&quot;:&quot;\u003ca href=\&quot;/\&quot;\u003eHome\u003c/a\u003e&quot;,&quot;className&quot;:&quot;opt site-link&quot;},{&quot;html&quot;:&quot;\u003ca href=\&quot;/tracks\&quot;\u003eLanguage Tracks\u003c/a\u003e&quot;,&quot;className&quot;:&quot;opt site-link&quot;},{&quot;html&quot;:&quot;\u003ca href=\&quot;/contributing\&quot;\u003eContribute\u003c/a\u003e&quot;,&quot;className&quot;:&quot;opt site-link&quot;},{&quot;html&quot;:&quot;\u003ca href=\&quot;/mentoring\&quot;\u003eMentoring\u003c/a\u003e&quot;,&quot;className&quot;:&quot;opt site-link&quot;}]}">
+            </div>
+        </div>
+    </header>
+        <div id='page-landing'>
+    <header class='pt-24 sm:pt-32 md:pt-40 pb-56 sm:pb-56 c-header-with-bg'>
+        <div class='lg-container flex items-start md:items-center flex-col-reverse md:flex-row'>
+        <div class='lhs md:items-center lg:items-start md:text-center lg:text-left'>
+    <h1 class='text-h0 mb-12'>
+        Get
+        <strong class='leading-none font-bold'>
+            really
+        </strong>
+        good at Computer knowldege.
+    </h1>
+    <p class='text-p-xlarge mb-24'>
+        Develop fluency in
+        <em class='not-italic font-medium text-textColor2'>
+            "<u>programming language and computer basics</u>"
+        </em>
+                with our unique blend of learning, practice and studying.
+                TechEra is fun, effective and
+        <strong class='text-textColor2'>
+            100% free, forever.
+        </strong>
+    </p>
+        <div class='buttons flex mb-40 flex-col sm:flex-row'>
+           <a class="btn-primary btn-l mb-12 sm:mb-0 sm:mr-24 " href="/users/sign_up">
+               Sign up for free
+            </a>
+            <a class="btn-secondary btn-l shadow-buttonS" href="/tracks">
+               Explores
+            </a>
+        </div>
+        <div class='organisation pt-16 sm:items-center lg:items-start xl:items-center flex-col sm:flex-row lg:flex-col xl:flex-row px-24 sm:pl-32 sm:pr-48 pb-16 sm:pb-32 md:pb-16 lg:pb-16 xl:pb-16'>
+            <a href="#" class="logo"><span><strong>TECH</strong></span>
+                <i class="fab fa-staylinked"></i><span><strong>ERA</strong></span>
+                </a>
+                &nbsp
+                &nbsp
+                &nbsp
+        <div class='flex flex-col sm:flex-row lg:flex-col xl:flex-row sm:items-center lg:items-start xl:items-center'>
+            <p class='text-p-base mb-8 sm:mb-0 text-left'>
+                is an independent and well performed by the
+                <a href="   ">
+                    <strong>
+                        <u>TechEra</u>
+                    </strong>
+                </a>
+                 members.
+            </p>
+            <a class="c-prominent-link sm:ml-40 lg:ml-0 xl:ml-40" href="/about">
+                Learn more
+            </a>
+        </div>
+        </div>
+        </div>
+        <div class='graphic grid md:hidden lg:grid lg:ml-24 mb-16 lg:mb-0'>
+            <img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/landing-page-top-74da2134b88efcf34b05e804987fdfb832771716.svg" />
+        </div>
+        </div>
+    </header>
+    <section class='tracks-section pt-40 md:pt-56 mb-40 md:mb-56'>
+        <div class='lg-container'>
+            <div class='section-header items-center self-center mb-8 md:mb-12'>
+                <div class="c-icon  --hex">
+                    <img role="presentation" alt="" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/tracks-2e780b460e113a9b07ce4446c988a31c40547b00.svg" />
+                </div>
+        <h2 class='text-h1 text-center'>
+            Explore and
+            <strong>
+                get fluent
+            </strong>
+            in
+            <br>
+            different types of programming languages and computer basics
+        </h2>
+        <hr class='c-divider --large'>
+        </div>
+        <div class='mb-64 grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-6'>
+            <a class="track" href="/tracks/python">
+                <img alt="Python" class="c-track-icon  --python" onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;;" src="https://dg8krxphbh767.cloudfront.net/tracks/python.svg" />
+            <div class='title'>
+                Python            
+            </div>
+            </a>
+
+            <a class="track" href="/tracks/rust">
+                <img alt="mspowerpoint" class="c-track-icon  --rust" onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;;" src="images/powerpoint.jpeg" />
+            <div class='title'>
+                Ms Powerpoint
+            </div>    
+            </a>
+
+            <a class="track" href="/tracks/java">
+                <img alt="Java" class="c-track-icon  --java" onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;" src="https://dg8krxphbh767.cloudfront.net/tracks/java.svg" />
+            <div class='title'>
+                Java
+            </div>
+            </a>
+            
+            <a class="track" href="/tracks/go">
+                <img alt="sql" class="c-track-icon  --go" onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;;" src="images/sqlimg.jpeg" />
+            <div class='title'>
+                Sql
+            </div>
+            </a>
+
+            <a class="track" href="/tracks/javascript">
+                <img alt="JavaScript" class="c-track-icon  --javascript" onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;;" src="https://dg8krxphbh767.cloudfront.net/tracks/javascript.svg" />
+            <div class='title'>
+                JavaScript
+            </div>
+            </a>
+
+            <a class="track" href="/tracks/ruby">
+                <img alt="msexcel" class="c-track-icon  --ruby" onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;;" src="images/excel.jpeg" />
+            <div class='title'>
+                Ms Excel
+            </div>    
+            </a>
+
+            <a class="track" href="/tracks/cpp">
+                <img alt="C++" class="c-track-icon  --cpp" onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;;" src="https://dg8krxphbh767.cloudfront.net/tracks/cpp.svg" />
+            <div class='title'>
+                C++
+            </div>
+            </a>
+
+            <a class="track" href="/tracks/typescript">
+                <img alt="msword" class="c-track-icon  --typescript" onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;;" src="images/word.jpeg" />
+            <div class='title'>
+                Ms Word
+            </div>    
+            </a>
+
+            <a class="track" href="/tracks/csharp">
+                <img alt="C#" class="c-track-icon  --csharp" onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;;" src="https://dg8krxphbh767.cloudfront.net/tracks/csharp.svg" />
+            <div class='title'>
+                C#
+            </div>
+            </a>
+
+            <a class="track" href="/tracks/elixir">
+                <img alt="msaccess" class="c-track-icon  --elixir" onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;;" src="images/access.jpeg" height="50" width="59" />
+            <div class='title'>
+                Ms Access
+            </div>    
+            </a>
+
+            <a class="track" href="/tracks/c">
+                <img alt="C" class="c-track-icon  --c" onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;;" src="https://dg8krxphbh767.cloudfront.net/tracks/c.svg" />
+            <div class='title'>
+                C
+            </div>
+            </a>
+
+            <a class="track" href="/tracks/bash">
+                <img alt="operatingsystem" class="c-track-icon  --bash" onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-track-e3d861058d4702c1dc4036617689249659b8d37d.svg&#39;;" src="images/operating s.jpeg" />
+            <div class='title'>
+                <center>
+                    Operating<br>System
+                </center>
+            </div>
+            </a>
+
+        </div>
+
+        <div class='cta border-t-3 border-veryLightBlue'>
+            <a class="c-prominent-link --with-bg" href="/tracks"><span>See all</span><img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/arrow-right-0f5e363467e0c55fe280b4864639a9c677afa0d2.svg" /></a>
+        </div>
+        </div>
+    </section>
+    <section class='exercises-section pb-64'>
+        <div class='lg-container'>
+        <div class='flex flex-col lg:flex-row lg:items-start mb-48 lg:mb-72'>
+        <div class='flex-grow min-w-[50%] lg:max-w-[640px]'>
+        <div class='section-header mb-24 sm:mb-32'>
+        <div class="c-icon  --hex"><img role="presentation" alt="" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/exercises-8a7df249fbfb76cc18efbbee844d9bd742830404.svg" /></div>
+      <h2 class='text-h2'>
+        Over
+        <strong>thousands of codes and computer basics.</strong>
+        <br>
+        From "Allergies" to "Zebra Puzzle".
+      </h2>
+        <hr class='c-divider'>
+        <p class='text-p-xlarge'>
+            Learn by doing. Get better at programming and computer basics through fun studying that build your understanding of concepts.
+        </p>
+        </div>
+        <div class='exercises'>
+        <div class='exercise sm:items-center'>
+            <img alt="Allergies" class="c-icon c-exercise-icon " onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-exercise-54cf5afe4add37d9cf717793c91b088a7dd242ef.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-exercise-54cf5afe4add37d9cf717793c91b088a7dd242ef.svg&#39;;" src="https://dg8krxphbh767.cloudfront.net/exercises/allergies.svg" />
+            <div class='flex-grow flex flex-col sm:flex-row sm:items-center'>
+            <div class='exercise-info mb-8 sm:mb-0'>
+      <h3>Allergies</h3>
+        <p>Given a person&#39;s allergy score, determine whether or not they&#39;re allergic to a given item, and their full list of allergies.</p>
+        </div>
+        <div class='flex items-center flex-shrink-0'>
+        <div class='track-icons sm:ml-16'>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class='exercise sm:items-center'>
+            <img alt="Queen Attack" class="c-icon c-exercise-icon " onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-exercise-54cf5afe4add37d9cf717793c91b088a7dd242ef.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-exercise-54cf5afe4add37d9cf717793c91b088a7dd242ef.svg&#39;;" src="https://dg8krxphbh767.cloudfront.net/exercises/queen-attack.svg" />
+            <div class='flex-grow flex flex-col sm:flex-row sm:items-center'>
+            <div class='exercise-info mb-8 sm:mb-0'>
+      <h3>Queen Attack</h3>
+        <p>Given the position of two queens on a chess board, indicate whether or not they are positioned so that they can attack each other</p>
+        </div>
+        <div class='flex items-center flex-shrink-0'>
+        <div class='track-icons sm:ml-16'>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class='exercise sm:items-center'>
+            <img alt="Zebra Puzzle" class="c-icon c-exercise-icon " onerror="if (this.src != &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-exercise-54cf5afe4add37d9cf717793c91b088a7dd242ef.svg&#39;) this.src = &#39;https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/missing-exercise-54cf5afe4add37d9cf717793c91b088a7dd242ef.svg&#39;;" src="https://dg8krxphbh767.cloudfront.net/exercises/zebra-puzzle.svg" />
+            <div class='flex-grow flex flex-col sm:flex-row sm:items-center'>
+            <div class='exercise-info mb-8 sm:mb-0'>
+      <h3>Zebra Puzzle</h3>
+        <p>Which of the residents drinks water? Who owns the zebra? Can you solve the Zebra Puzzle with code?</p>
+            </div>
+        <div class='flex items-center flex-shrink-0'>
+        <div class='track-icons sm:ml-16'>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+            <img role="presentation" alt=""  category=" graphics" class="c-icon top-graphic mb-20 md:mb-0 lg:mr-128"  width="668" hieght="511" src="studybuddy.jpg" />
+        </div>
+        <div class='features grid grid-cols-1 md:grid-cols-3 gap-x-80 gap-y-32'>
+        <div class='feature'>
+            <img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/features-local-2add638174fc7bc8b996ba7adcd79567fa995eea.svg" />
+      <h3 class='text-h4'>Write code locally, in your own space</h3>
+        <p class='text-p-base'>TechEra is primarily built as a CLI-first tool whether you can write and learn about the differnent codes.</p>
+        </div>
+        <div class='feature'>
+            <img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/features-editor-86efd1d24f03b40f84a25cb00554a255d668f598.svg" />
+      <h3 class='text-h4'>Use the TechEra in-browser editor</h3>
+        <p class='text-p-base'>Don’t spend hours installing a language locally just to try it out. We support all of the programming languages and computer basics in our in-browser editor.</p>
+        </div>
+        <div class='feature'>
+            <img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/features-feedback-b933f415772e36c9ecf3b28ccab52693e100c116.svg" />
+      <h3 class='text-h4'>Get automated analysis on your code</h3>
+        <p class='text-p-base'>Not quite sure how well you’ve done? We run automatic analysis on your solutions to give you quick feedback and points of improvement.</p>
+        </div>
+        </div>
+        </div>
+    </section>
+    <section class='mentoring-section mb-80 pt-48 md:pt-96 pb-64'>
+        <div class='lg-container'>
+        <div class='flex flex-col md:flex-row items-center justify-center mb-24 sm:mb-64'>
+            <img role="presentation" alt="" class="c-icon top-graphic mb-20 md:mb-0 lg:mr-128" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/graphics/mentoring-coffee-8bef8c16ec49cbf68b87900e657c53959c14e504.svg" />
+            <div class='section-header'>
+            <div class="c-icon  --hex"><img role="presentation" alt="" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/exercises-8a7df249fbfb76cc18efbbee844d9bd742830404.svg" /></div>
+                <h2 class='text-h2'>
+                    Depend your knowledge with learning,
+                    <strong>for free.</strong>
+                </h2>
+                <hr class='c-divider'>
+                <p class='text-p-xlarge'>
+                   Discover new and exciting ways to learn by getting handwritten <a href="     "><b><u>Notes</u></b></a> on it. Become more familiar with the conventions, ideas and opinions of a particular programming language and computer basics.
+                </p>
+            </div>
+            </div>
+        <div class='flex flex-col items-center'>
+        <h3 class='text-h2'>Why learning?</h3>
+            <hr class='c-divider mt-16 mb-24'>
+        </div>
+        <div class='features grid grid-cols-1 md:grid-cols-3 gap-x-80 gap-y-32'>
+            <div class='feature'>
+                <img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/features-do-not-know-79f18976f977caccc46cf7d36f99932f28fe20d8.svg" />
+                <h3 class='text-h4'>You don’t know what you never knew</h3>
+                <p class='text-p-base'>When learning a new computer language and their bsics, the hardest part is not being aware of the gaps in your knowledge. We can look at your code and immediately see the ideas you're not familiar with and give you a level-up by unlocking new knowledge.</p>
+            </div>
+        <div class='feature'>
+            <img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/features-fluency-79f18976f977caccc46cf7d36f99932f28fe20d8.svg" />
+            <h3 class='text-h4'>Learn language-specific conventions</h3>
+            <p class='text-p-base'>Becoming fluent in a language is more than being able to write code in it - it's about being able to think in that languages. Our Teams will help guide you to how to reshape your thinking to write your own idealistic code.</p>
+        </div>
+        <div class='feature'>
+            <img role="presentation" alt="" class="c-icon" src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/features-feedback-b933f415772e36c9ecf3b28ccab52693e100c116.svg" />
+            <h3 class='text-h4'>Learning with others is fun</h3>
+            <p class='text-p-base'>Getting feedback from real people is an amazingly exciting way to learn. And becoming a learner and giving feedback yourself is an even bigger step forward. So, complete the circle - be a good learner ??</p>
+        </div>
+        </div>
+        </div>
+    </section>
+        </div>
+
+
+<footer class="footer-distributed">
+
+    <div class="footer-left">
+        <a href="#home">
+            <img src="logo.png">
+         </a>
+    <h3>The <span>TechEra</span></h3>
+
+        <p class="footer-links">
+            <a href="index.html">Home</a>
+            |
+            <a href="#">Blog</a>
+            |
+            <a href="about.html">About Us</a>
+            |
+            <a href="contact.html">Contact</a>
+            |
+            <a href="termsandcondition.html">Terms and Condition</a>
+            |
+            <a href="pr.html">Privacy Policy</a>
+        </p>
+<br>
+<br>
+        <p class="footer-company-name"> 2023 Copyright © TechEra. All Rights Reserved</p>
+    </div>
+
+    <div class="footer-center">
+        <div>
+            <i class="fa fa-map-marker"></i>
+              <p><span>GALGOTIAS COLLEGE OF ENGINEERING AND TECHNOLOGY</span>
+              </p>
+        </div>
+
+        
+        <div>
+            <i class="fa fa-envelope"></i>
+            <p>
+                <a href="mailto:support@eduonix.com">
+                    prashantkumar0852.@gmail.com
+                </a>
+            </p>
+        </div>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+        <p class="footer-company-about">
+            <a href="#">
+                Faq
+            </a>
+            |
+            <a href="#">
+                Reports
+            </a>
+            |
+            <a href="#">
+                Help and Support
+            </a>
+        </p>    
+    </div>
+
+
+    <div class="footer-right">
+        <p class="footer-company-about">
+            <span>
+                About the TechEra
+            </span>
+                We are here to provides computer programming languages and basics applications with their handwritten notes.
+        </p>
+
+        <div class="footer-icons">
+            <p class="footer-company-about">
+                <span>
+                    Join Us
+                </span>
+            </p>
+            <br>
+
+            <a href="#">
+                <i class="fa fa-facebook">
+                </i>
+            </a>
+
+            <a href="#">
+                <i class="fa fa-twitter">                    
+                </i>
+            </a>
+
+            <a href="#">
+                <i class="fa fa-instagram">
+                </i>
+            </a>
+
+            <a href="#">
+                <i class="fa fa-linkedin">
+                </i>
+            </a>
+
+            <a href="#">
+                <i class="fa fa-youtube">
+                </i>
+            </a>
+        </div>
+    </div>
+</footer>
+
+
+</body>
+</html>

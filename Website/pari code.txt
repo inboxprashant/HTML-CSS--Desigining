@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career</title>
+    <link rel="stylesheet" href="papa.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+    </head>
+</head>
+<body>
+    <!-- header -->
+    <section class="header">
+        <nav>
+            <a href="index.html" class="logo">TECH
+                <i class="fab fa-staylinked"></i>ERA
+            </a>
+            <div class="nav-links" id="navLinks">
+    
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="course.html">Course</a></li>
+                    <li><a href="pr.html">privacy_policy</a></li>
+                    <li><a href="notes.html">notes</a></li>
+                    <li><a href="about.html">About</a></li>
+                    
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showmenu()"></i>
+            <script src="sc.js"></script>
+        </nav>
+    </section>
+    
+    <!-- header end -->
+
+    <section class="career">
+        <h1><b>WE ENSURE BETTER <br>CAREER OPTIONS FOR YOU</br></b></h1><img src="images/download.png" style="margin-left: 60px;">
+	    <p>This is the career page of tech era where you can find different career options as well
+	    as you can also take help in language learning.</p>
+
+        <a href="contact.html"><button class="btn-1">GET STARTED </button></a>
+
+        <div class="features">
+            <button> LEARN LANGUAGES </button>
+            <button> C++ </button>
+            <button> JAVA </button>
+            <button> PHP </button>
+            <button> PYTHON </button>
+            <button> JAVASCRIPT </button>
+        </div>
+	
+    </section> 
+  <!----------------------------------------------------------------------------------------->
+    <section class="main">
+    
+        <div class="container">
+            <div class="img">
+                <img src="images/pen.png">
+            </div>
+            <ul class="culture__list">
+                <li>
+                    <div class="img1">
+                        <img src="images/learners.png">
+                    </div>
+                    <div class="sec1">
+                        <h3 class="title1">We are learners</h3>
+                        <div class="tit1">Enjoy a yearly learning stipend, office-wide learning events,<br> unlimited access
+                            to Udemy courses, plus a monthly DEAL hour —<br> a time for the whole company to drop everything
+                            and learn. Want to try teaching? Use our in-house production studio to film courses.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="img2">
+                        <img src="images/navigators.png" />
+                    </div>
+                    <div class="sec2">
+                        <h3 class="title2">We are navigators</h3>
+                        <div class="tit2">When people feel supported, everyone benefits. <br>We want our employees to
+                            develop skills for their careers — not just their current roles. <br>Take advantage of regular
+                            workshops and trainings designed to help you reach your professional goals.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="img3">
+                        <img src="images/download.png" />
+                    </div>
+                    <div class="sec3">
+                        <h3 class="title3">We make an impact</h3>
+                        <div class="tit3">We’re passionate about giving back.<br> Through company volunteer events, our
+                            employees regularly help local food banks, middle school students, and more. <br>We also share
+                            free courses with nonprofits and work with them directly to train their workforces and
+                            volunteers.</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="img4">
+                        <img src="images/global.png" />
+                    </div>
+                    <div class="sec4">
+                        <h3 class="title4">We are global</h3>
+                        <div class="tit4">We’re based in San Francisco, but we’ve had a global mindset from the start.
+                            <br>Since our company first began in Turkey in 2009, we’ve built an international community of
+                            students, <br>instructors, and employees working in five offices around the world.</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    
+    </section> 
+
+    <!------------------------------------------------------------------------------------>
+
+    <section class="report">
+        <div class="gif">
+          <a href="https://forms.gle/hAcdDn5hnxQC7iPv9" style="text-decoration: none;">  <img src="https://media.baamboozle.com/uploads/images/46796/1596491083_98424"> </a>
+    
+          
+        </div>
+        <div class="quote">
+        <p>Don't Run for your career,We are here to help you....</p>
+        <p>Tech Era will help you in all aspects ,for example we provide notes, we share you </p>
+        <p>job oppurtunities and many more career related materials</p>
+        </div>
+        
+    
+    
+    
+    </section> 
+
+    <!------------------------------------------------------------------------------------------>
+
+    <showcase>
+        <h1><u>POPULAR LANGUAGES WE OFFER <u></h1>
+        <div class="course">
+            <div class="java">
+                <h3> JAVA</h3>
+                <p>Java is a high-level, class-based, object-oriented programming language</p>
+                <p>that is designed to have as few implementation dependencies as possible.</p>
+                <img src="images/java.jpeg" width="15%" alt="js">
+                <a href="#"><button class="apply">Apply Here</button></a>
+    
+            </div>
+            <div class="C++">
+                <h3> C++</h3>
+                <p>c++ is an updated version of c language which is considered as mother of programming language. </p>
+                <img src="images/c++.jpg" width="15%" alt="js">
+                <a href="#"><button class="apply">Apply Here</button></a>
+    
+            </div>
+            <div class="Python">
+                <h3> Python</h3>
+                <p>Python is a high-level, interpreted, general-purpose programming language. </p>
+                <p>Its design philosophy emphasizes code readability with the use of significant indentation.</p>
+                <img src="images/python.jpeg" width="15%" alt="js">
+                <a href="#"><button class="apply">Apply Here</button></a>
+    
+            </div>
+            <div class="Html">
+                <h3> Html</h3>
+                <p>The HyperText Markup Language or HTML is the standard markup language</p>
+                <p>for documents designed to be displayed in a web browser.</p>
+                <img src="images/html.jpeg" width="15%" alt="js">
+    
+                <a href="#"><button class="apply">Apply Here</button></a>
+    
+            </div>
+    
+    </showcase>
+
+    <!-------------------------------------------------------------------------------->
+
+    <section class="footer">
+    
+        <h4>Welcome To a New Era</h4>
+        <h5><a href="pr.html">privacy policy</a></h5>
+        <h5><a href="termsandcondition.html">terms & conditon</a></h5>
+        <h5><a href="#">faq</a></h5>
+    
+    
+        <div class="icons">
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-linkedin"></i>
+        </div>
+    
+        <p> <b>Copyright © <a href="index.html">TECH ERA</a>. All Rights Reserved </b></p>
+    </section>
+</body>
+</html>

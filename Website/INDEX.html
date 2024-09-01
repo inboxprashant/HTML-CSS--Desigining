@@ -1,0 +1,401 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TECH ERA</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+
+        <style>
+            * {
+                box-sizing: border-box;
+            }
+        
+            .head2 {
+                font-family: Verdana, sans-serif;
+                min-height: 40vh;
+                min-width: 100%;
+            }
+        
+            .mySlides {
+                display: none;
+                margin-top: 20px;
+            }
+        
+            img {
+                vertical-align: middle;
+            }
+        
+            /* Slideshow container */
+            .slideshow-container {
+                max-width: 1500px;
+        
+                position: relative;
+                margin: auto;
+            }
+        
+            /* Caption text */
+            .text {
+                color: #f2f2f2;
+                font-size: 15px;
+                padding: 8px 12px;
+                position: absolute;
+                bottom: 8px;
+                width: 100%;
+                text-align: center;
+            }
+        
+            /* Number text (1/3 etc) */
+            .numbertext {
+                color: #f2f2f2;
+                font-size: 12px;
+                padding: 8px 12px;
+                position: absolute;
+                top: 0;
+            }
+        
+            /* The dots/bullets/indicators */
+            .dot {
+                height: 15px;
+                width: 15px;
+                margin: 0 2px;
+                background-color: #bbb;
+                border-radius: 50%;
+                display: inline-block;
+                transition: background-color 0.6s ease;
+            }
+        
+            .active {
+                background-color: #717171;
+            }
+        
+            /* Fading animation */
+            .fade {
+                animation-name: fade;
+                animation-duration: 1.5s;
+            }
+        
+            @keyframes fade {
+                from {
+                    opacity: .4
+                }
+        
+                to {
+                    opacity: 1
+                }
+            }
+        
+            /* On smaller screens, decrease text size */
+            @media only screen and (max-width: 300px) {
+                .text {
+                    font-size: 11px
+                }
+            }
+    
+        </style>
+        
+        
+       
+       
+</head>
+
+<body>
+ 
+    <section class="header">
+        <nav>
+            <a href="index.html" class="logo">TECH
+                <i class="fab fa-staylinked"></i>ERA
+            </a>
+            <div class="nav-links" id="navLinks">
+               
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="courses.html">Course</a></li>
+                    <li><a href="pari.html">Career</a></li>
+                    <li><a href="notes.html">notes</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showmenu()"></i>
+           <script src="sc.js"></script>
+        </nav>
+       
+        
+       <div class="text_box">
+            <h2>GET READY</h2>
+            <p id="headtext">TO ENTER THE TECHNICAL WORLD</p>
+            <p>
+                Tech Era is the place where technical skills are developed and enhanced by <br>the knowledge of 
+                our expert team members.
+            </p>
+            <a href="about.html" class="hero_btn">Visit Us To Know More</a>
+         
+        </div> 
+    </section>
+        
+    <section class="head2">
+        
+        
+            <div class="slideshow-container">
+        
+                <div class="mySlides fade">
+                    
+                    <img src="https://miro.medium.com/max/1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg"
+                        style="width:100%">
+        
+                </div>
+        
+                <div class="mySlides fade">
+                  
+                    <img src="https://freerangestock.com/sample/113049/coding-and-programming--computer-science-and-it.jpg"
+                        style="width:100%">
+        
+                </div>
+        
+                <div class="mySlides fade">
+                   
+                    <img src="https://slideplayer.com/12994124/79/images/slide_1.jpg"
+                        style="width:100%">
+        
+                </div>
+                <div class="mySlides fade">
+               
+        
+        
+                    <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg"
+                        style="width:100%">
+        
+        
+        
+        
+                </div>
+            
+            </div>
+            <br>
+        
+            <div style="text-align:center">
+                <span class="dot"></span>
+                <span class="dot"></span>
+                <span class="dot"></span>
+                <span class="dot"></span>
+            </div>
+        
+            <script>
+                let slideIndex = 0;
+                showSlides();
+
+                function showSlides() {
+                    let i;
+                    let slides = document.getElementsByClassName("mySlides");
+                    let dots = document.getElementsByClassName("dot");
+                    for (i = 0; i < slides.length; i++) {
+                        slides[i].style.display = "none";
+                    }
+                    slideIndex++;
+                    if (slideIndex > slides.length) { slideIndex = 1 }
+                    for (i = 0; i < dots.length; i++) {
+                        dots[i].className = dots[i].className.replace(" active", "");
+                    }
+                    slides[slideIndex - 1].style.display = "block";
+                    dots[slideIndex - 1].className += " active";
+                    setTimeout(showSlides, 3000); // Change image every 2 seconds
+                }
+            </script> 
+    </section>
+
+    
+
+    
+
+    <!-- Course Section Start -->
+    <section class="course">
+        <div class="PageBlock">
+            <div class="verticalLine"></div>
+            <div class="Clear"></div>
+        </div>
+        <h1>EXPLORE OUR 600+ <br> MAJOR PROGRAMS</h1>
+        <p>The Techincal Era provides a variety of language Programs</p>
+
+        <div class="row">
+            <div class="course-col">
+                <img src="images/com.webp" alt="" class="cl">
+                <h3>Computer Languages</h3>
+                <p>The computer language is defined as code or syntax which is used to write programs or any specific applications. The
+                computer language is used to communicate with computers. Broadly the computer language can be classified into three
+                categories assembly language, machine language, and high-level language.</p>
+            </div>
+            <div class="course-col">
+                <img src="images/uug.png" alt="" class="cl" id="cl1">
+                <h3>Graduate Programs</h3>
+                <p>graduate education leads to master's degree and doctorate, also called a doctoral degree. Often, graduate degrees help
+                people advance further in their careers and earn more over a lifetime. Some fields � such as physical therapy � require
+                graduate degrees.</p>
+            </div>
+            <div class="course-col">
+                <img src="images/ai.jpg" alt="" class="cl">
+                <h3>Artificial Learning</h3>
+                <p>Artificial intelligence (AI) broadly refers to any human-like behaviour displayed by a machine or system. In AI�s most
+                basic form, computers are programmed to �mimic� human behaviour using extensive data from past examples of similar
+                behaviour. This can range from recognising differences between a cat and a bird to performing complex activities in a
+                factory environment.
+</p>
+            </div>
+        </div>
+    </section>
+    <!-- Course Section End -->
+
+
+    <!-- Facilities Section Start -->
+    <section class="facilities">
+        <div class="PageBlock">
+            <div class="verticalLine"></div>
+            <div class="Clear"></div>
+        </div>
+        <h1>Our Services</h1>
+        <p>Tech Era is known for his free services and youcan have a benifit from that. </p>
+
+        <div class="row">
+            <div class="facilities-col">
+                <img src="images/note.png" alt="">
+                <h3>Simplified Notes</h3>
+                <p>Click here to geet the simplified notes i.e handwritten/scnned easy language notes.
+                </p>
+            </div>
+            <div class="facilities-col">
+                <img src="images/sc.jpg" alt="">
+                <h3>Source Codes</h3>
+                <p>All the type of source code are avialable here and you can use it freely.
+                </p>
+            </div>
+            <div class="facilities-col">
+                <img src="images/career.jpg" alt="">
+                <h3>Right Career </h3>
+                <p>We also provide the right career path for your future and hence we will improve your skill.
+                </p>
+            </div>
+        </div>
+    </section>
+    <!-- Facilities Section End -->
+
+    <!-- Testimonials Section Start -->
+    <section class="testimonials">
+        <div class="PageBlock">
+            <div class="verticalLine"></div>
+            <div class="Clear"></div>
+        </div>
+        <h1>What Our Visitors Says</h1>
+        <p>Speak is the right for every person</p>
+
+        <div class="row">
+            <div class="testimonials-col">
+                <img src="images/user.png" alt="oo..">
+                <div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi maiores in nostrum rerum voluptatem
+                        praesentium veritatis alias omnis voluptate nisi aperiam, voluptatum quibusdam itaque a
+                        deserunt. In quia repellat maxime.</p>
+                    <h3>Visitor Name</h3>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    
+                </div>
+            </div>
+            <div class="testimonials-col">
+                <img src="images/user.png" alt="oo..">
+                <div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi maiores in nostrum rerum voluptatem
+                        praesentium veritatis alias omnis voluptate nisi aperiam, voluptatum quibusdam itaque a
+                        deserunt. In quia repellat maxime.</p>
+                    <h3>Visitor Name</h3>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-alt"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Testimonials Section End -->
+
+    <!-- Call To Action Section Start -->
+    <section class="cta">
+        <h1>GET READY FOR A BRIGHT FUTURE</h1>
+        <a href="contact.html" class="hero_btn">CONTACT US</a>
+    </section> 
+    <!-- Call To Action Section End -->
+
+    <!--notice section-->
+    <section class="notice">
+      
+    
+    
+            <h1>PILLERS OF THE PAGE</h1>
+    
+           
+        <div class="container">
+        
+            <div class="row2">
+                <!--First User design starts here-->
+                <div class="profile-card">
+                    <div class="profile-content">
+                        <div class="profile-image">
+                            <img src="images/logo.png" alt="User LOGO">
+                        </div>
+                        <div class="desc">
+                            <h2>PRASHANT KUMAR</h2>
+                            <p>STUDENT </p>
+                        </div>
+                        <div class="btn-div">
+                            <button class="btn"><i class="fa fa-facebook" style="padding-right: 10px;"></i>Follow</button>
+                        </div>
+                    </div>
+                </div>
+                <!--First user design ends here-->
+                <!--second User design starts here-->
+               
+                <!--second user design ends here-->
+                <!--third User design starts here-->
+               
+                <!--third user design ends here-->
+               
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Section Start -->
+    <section class="footer" >
+        
+        <h4>Welcome To a New Era</h4>
+        <h5><a href="pr.html">privacy policy</a></h5>
+        <h5><a href="termsandcondition.html">terms & conditon</a></h5>
+        <h5><a href="#">faq</a></h5>
+       
+
+        <div class="icons">
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-linkedin"></i>
+        </div>
+        
+        <p>Copyright �  <a href="index.html">TECH ERA</a>. All Rights Reserved</p>
+    </section>
+    <!-- Footer Section End -->
+
+    <script src="script.js"></script>
+    
+</body>
+
+</html>

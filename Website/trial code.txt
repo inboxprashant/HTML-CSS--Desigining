@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About us</title>
+</head>
+<body>
+    <section style="background-color: aliceblue;">
+        <H1 style="text-align: center; font-size: larger; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+        margin-top: 0.5rem; border: 2px solid black; border-radius: 5px; border-color: blue;"> MORE ABOUT US</H1> </section>
+        <section style="float: right;"><img src="https://c.tenor.com/fplB1BbXMKQAAAAC/welcome-emoji.gif"></section>
+        <section style=" float: left; text-transform: capitalize; font-size: 1rem; 
+        font-family:Arial, Helvetica, sans-serif; font-weight: bold; ">
+        
+<p style="margin-left :5px; ">Hello, Dear friends, Welcome to TechEra also, we are happy you want to know something more about our site</p>
+<p  style="margin-left :5px;">So, basically, nowadays people are more dependent on online products and services that's why we also, take forward a
+    step to help you.</p>
+<p style="margin-left :5px;">Our first wish is to provide you with a better solution to solve your problem. So, kindly if you don't get any
+    solution then mention it in the comment section.</p>
+<p style="margin-left :5px;">Also, we are trying to provide fresh & latest content that provides you ideas about all updated information that's
+    happening in the world.</p>
+<p style="margin-left :5px;">In the below section you can get more ideas about our site like our website category and content category.</p>
+
+    </section>
+    <section style="float: left; text-transform: capitalize; 
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; color: black;  ">
+<h3 style="font-size: 2rem;  margin-left: 50%;"><b>What is Our Goal?</b></h3>
+<p style="margin-left: 5px;"> There are millions of websites created every day, also, there is much fake content spread on the internet.</p>
+<p style="margin-left: 5px;">So, Our main goal is to provide you with 100% Original and Safe content that provides you a great and better
+    experience on the world wide web.</p>
+<p style="margin-left: 5px;"> We mainly focus on our service so and improving it regularly to provide a better user experience to all users.</p>
+<p style="margin-left: 5px;">Basically, we focus on the Education niche so, our main priority is to search for new content and present it in front
+    of you to learn something new. </p> </section> <hr>
+    <section style="float: left; text-transform: capitalize; 
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; color:black; 
+       ">
+<h3 style="font-size: 2rem; text-align: center;"><b>What is our Service?</b></h3>
+<p style="margin-left: 5px;">We are mainly focused on the Education category so, we provide Education related content if you are interested in the
+    Education category then you can visit daily to get more latest information.</p>
+<p style="margin-left: 5px;">The world of technology is changing and hence we are here to help you</p>
+<p style="margin-left: 5px;">On our website TechEra you get can all Education related information also, we focus on many other categories and we
+    hope you like also, the content of other categories that are maintained on our website. So, you can visit our
+    website homepage to know all category details here you can visit our homepage Click here <a
+        href"techera.rf.gd">TechEra</a>.</p>
+<p style="margin-left: 5px;">Also, we provide a Notification update service you can join by email and other Social Media Platforms, and all Links
+    you can get on the Homepage visit now. <a href"techera.rf.gd">TechEra</a></p>
+    
+<section style="background-color: aquamarine;">
+    <H1 style="text-align: center; font-size: larger; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+            margin-top: 0.5rem; border: 2px solid black; border-radius: 5px; border-color: blue;">THANKS FOR YOUR TIME...</H1>   
+   
+        </section>
+        
+    <section style="background-color: aquamarine;">
+        <H1 style="text-align: center; font-size: larger; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+                margin-top: 0.5rem; border: 2px solid black; border-radius: 5px; border-color: blue;"> <a href="index.html" style="text-decoration: none;"> HOME / </a> <a href="about.html" style="text-decoration: none; color: blue;">BACK</a></H1>
+    </section>
+    </section>
+</body>
+</html>

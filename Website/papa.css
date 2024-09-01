@@ -1,0 +1,360 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+body{
+    background-color: #fff3f3;
+}
+
+.header {
+    height: 15vh;
+    width: 100%;
+    background-image: linear-gradient(#517e86c4, #949fdf1a), url(images/bggg.webp);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+nav {
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav .logo {
+    text-decoration: none;
+    font-size: 28px;
+    color: #fff3f3;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+nav .fab {
+    font-size: 40px;
+
+    color: #24f8c7;
+
+}
+
+nav .fa {
+    display: none;
+}
+
+.nav-links {
+    flex: 1;
+    text-align: right;
+}
+
+.nav-links ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 8px 12px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.nav-links ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.nav-links ul li::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #24f8c7;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+.nav-links ul li:hover::after {
+    width: 100%;
+}
+
+/*responisve*/
+@media(max-width: 700px) {
+    .nav-links ul li {
+        display: block;
+    }
+
+    .nav-links {
+        position: fixed;
+        background: #47b19efa;
+        height: 100vh;
+        width: 200px;
+        top: 0;
+        right: -200px;
+        text-align: left;
+        z-index: 2;
+        transition: 1.2s;
+    }
+
+    nav .fa {
+        display: block;
+        color: #ffff;
+        margin: 10px;
+        font-size: 22px;
+        cursor: pointer;
+    }
+
+    .nav-links ul {
+        padding: 30px;
+    }
+}
+
+/*header ends*/
+
+/*career top*/
+.career{
+    height: 50vh;
+   
+    margin-top: 0%;
+}
+
+
+
+.career h1 {
+    color: black;
+    line-height:35 px;
+    font-family: "Lucida console", "Courier New", monospace;
+    margin-left: 5%;
+    margin-top: 5px;
+
+}
+
+.career p {
+    color: grey;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.career .btn-1 {
+    background-color: orangered;
+    padding: 0.7rem 1rem;
+    
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.career .btn-1:hover{
+    background-color: lightcyan;
+}
+
+
+.career .features {
+    margin-top: 4%;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    font-weight:bold;
+}
+
+.career .features button:hover{
+    color:red;
+    padding: 2px;
+}
+
+/************************************************************/
+.main {
+    height: 100vh;
+    background-color: whitesmoke;
+
+}
+
+.container {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 50vh;
+
+}
+
+.img {
+    float: left;
+    position: flex;
+    width: 100px;
+    margin-left: 0px;
+    max-height: min-content;
+}
+
+
+.sec1 {
+    text-decoration: none;
+}
+
+.culture__list {
+    text-decoration: none;
+    padding: 5px;
+}
+
+li {
+    text-decoration: none;
+}
+
+ul li {
+    float: right;
+    text-decoration: none;
+}
+
+@media (max-width: 700px) {
+    .container {
+        width: 100%;
+        font-size: 11px;
+        float: right;
+    }
+
+    .img {
+        height: 10%;
+        float: left;
+        margin: 0px;
+        position: flex;
+        size: adjust 20px;
+        max-width: 100px;
+        width: 100px;
+
+    }
+
+}
+
+/********************************************************************************/
+
+
+.report {
+    min-height: 50vh;
+ 
+
+}
+
+.gif {
+    height: 20vh;
+}
+
+.quote {
+    float: right;
+    text-transform: uppercase;
+    color: black;
+    margin-right: 10px;
+    font-size: 24px;
+   
+    margin-top: 0%;
+    
+}
+
+.p {
+    float: right;
+    text-transform: uppercase;
+    color: black;
+    font-family: Cambria,
+        Cochin,
+        Georgia,
+        Times,
+        'Times New Roman',
+        serif;
+    font-size: 20px;
+    margin-right: 25%;
+    color: #f15c0b;
+}
+
+
+
+
+@media (max-width: 700px) {
+    .gif {
+        height: 10vh;
+        float: left;
+    }
+
+    .p {
+        font-size: 13px;
+        margin-right: 25%;
+    }
+
+    .quote {
+        font-size: 15px;
+        margin-right: 28%;
+    }
+
+    
+
+}
+
+/*******************************************************************************************/
+showcase h1 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+
+}
+
+.courses {
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+   
+
+}
+
+/*********************************************************************************************/
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url(images/bl1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.footer p {
+    color: white;
+}
+
+.footer h4 {
+    font-weight: 600;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-size: 40px;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: darkcyan;
+}
+
+.footer h5 {
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: yellow;
+    font-weight: 600;
+}
+
+.footer a:hover {
+    color: #24f8c7;
+}
+
+.icons .fab {
+    color: white;
+    margin: 0 13px;
+    cursor: pointer;
+    padding: 18px 0;
+}
+
+.icons .fab:hover {
+    color: #24f8c7;
+}
+
+.fa-heart {
+    color: #24f8c7;
+}
+
+hr {
+    border: 0.01px solid #7777772a;
+}
